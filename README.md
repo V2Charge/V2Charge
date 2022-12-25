@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V2Charge
+- 👋 Hi, We are @V2Charge
 - 👀 I’m interested in EVSE, EV CHARGING STATION
 - 🌱 We are in https://v2charge.com/
 - 👼  Please contact us in https://v2charge.com/es/conectar/
